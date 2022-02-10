@@ -1,0 +1,9 @@
+{
+  "_id": "1515",
+  "role": "admin",
+  "cart": [],
+  "wishlist": [],
+  "email": "test@gmail.com",
+  "name": "test",
+  "address": { "address": "123 Example St.", "zip": 12345 }
+}

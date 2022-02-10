@@ -1,0 +1,16 @@
+{
+  "_id": "61be6d8858012c077af1c68f",
+  "orderStatus": "Not Processed",
+  "products": [
+    {
+      "_id": "61be6d5e58012c077af1c676",
+      "product": "61be6cf797a7300771a157eb",
+      "count": 1,
+      "selectedColor": "Gray"
+    }
+  ],
+  "paymentIntent": {
+    "id": "pi_3K8CFdL1YUgKoCXC1FiV8cHG"
+  },
+  "orderedBy": { "$oid": "618ad88d533e172c02a67d63" }
+}

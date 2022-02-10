@@ -1,0 +1,17 @@
+
+[
+    {
+      "_id": "61d4f6d316d44b84d34075ed",
+      "product": "61be6cf797a7300771a157e7",
+      "count": 1,
+      "selectedColor": "Gray",
+      "price": 1149.99
+    },
+    {
+      "_id": "61d4f6d316d44b84d34075ee",
+      "product": "61be6cf797a7300771a157eb",
+      "count": 1,
+      "selectedColor": "Gray",
+      "price": 2199.9
+    }
+]

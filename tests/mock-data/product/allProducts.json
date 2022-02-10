@@ -1,0 +1,40 @@
+[
+  {
+    "subs": [{ "$oid": "61be6cf697a7300771a1579e" }],
+    "sold": 0,
+    "images": [],
+    "colors": ["Black"],
+    "brand": { "$oid": "61be6cf697a7300771a157a3" },
+    "category": { "$oid": "61be6cf697a7300771a15795" },
+    "description": "<p>Short HTML description</p>",
+    "price": 1049.99,
+    "quantity": 25,
+    "ratings": [],
+    "slug": "dell-latitude-3000",
+    "title": "Dell Latitude 3000"
+  },
+
+  {
+    "subs": [{ "$oid": "61be6cf697a7300771a1579e" }],
+    "sold": 5,
+    "images": [],
+    "colors": ["Black"],
+    "brand": { "$oid": "61be6cf697a7300771a157a7" },
+    "category": { "$oid": "61be6cf697a7300771a15795" },
+    "description": "<p>Product two's short HTML description.</p>",
+    "price": 899.99,
+    "quantity": 11,
+    "ratings": [
+      {
+        "star": 4,
+        "postedBy": { "$oid": "618ad88d533e172c02a67d63" }
+      },
+      {
+        "star": 3,
+        "postedBy": { "$oid": "618da4a07f5d1a00529cc8f1" }
+      }
+    ],
+    "slug": "travelmate-p2",
+    "title": "TravelMate P2"
+  }
+]

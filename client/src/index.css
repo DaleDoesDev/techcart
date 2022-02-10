@@ -1,0 +1,30 @@
+#root {
+  min-height: 100vh; /* will cover 100% of viewport */
+  position: relative; /*for the footer placement */
+  padding-bottom: 100px; /* for the footer's height */
+}
+
+.logo {
+  font-family: "Hurricane", cursive;
+}
+
+.slider img,
+card-image {
+  height: auto;
+  width: 300px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+}
+
+.payment-icon {
+  background-color: gray;
+  height: 28px;
+  width: auto;
+}
