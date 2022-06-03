@@ -22,6 +22,7 @@ const { authCheck, adminCheck } = require("../middlewares/auth");
 router.post(
   "/product",
   authCheck,
+  adminCheck,
   body("title").escape(),
   body("description").escape(),
   create
